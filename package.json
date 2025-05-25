@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@degloman/angular-responsive-carousel": "^2.3.3",
+    "@unpic/solid": "^0.0.47",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "remixicon": "^4.1.0"
+  }
+}
