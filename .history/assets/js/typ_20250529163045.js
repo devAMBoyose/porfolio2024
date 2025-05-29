@@ -30,8 +30,7 @@ window.onload = function () {
         "Software Engineer",
         "Full Stack Web Developer",
         "DevOps Engineer",
-        "UX/UI Graphic Designer",
-        "UI/UX Designer"
+        "UX/UI Graphic Designer"
     ];
     typeEffect(jobTitleElement, jobTitles, 150);
 };
